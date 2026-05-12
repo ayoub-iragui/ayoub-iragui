@@ -14,3 +14,5 @@ No scanners. Pure manual review. Language-agnostic code breakdown. PoCs with har
 **Audits & Research Write-ups:**
 * [**C/C++**: Architectural Flaw: DRBG State Leakage in Threshold ECDSA](https://github.com/ayoub-iragui/web3-security-research/blob/main/README.md)
 * [**Rust/Soroban**: State Deviation: Triple-Asset Debt Wipeout via Dust Collateral](https://github.com/ayoub-iragui/web3-security-research/blob/main/DeFi-Logic-Flaws/Triple_Asset_Debt_Wipeout.md)
+
+* https://github.com/ayoub-iragui/web3-security-research/tree/main/Core-Infrastructure

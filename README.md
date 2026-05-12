@@ -1,16 +1,14 @@
-## Hi there 👋
+# ayoub (aragui99)
+Smart Contract Auditor / Security Researcher.
 
-<!--
-**ayoub-iragui/ayoub-iragui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hunting deep logic flaws, state deviations, and invariant breaches. Language-agnostic structural analysis, frequently auditing EVM, Rust (Soroban/Solana), and C/C++ core infrastructure.
 
-Here are some ideas to get you started:
+**Focus:**
+- Deep structural mechanics (Storage layouts, Complex Deserialization, FFI boundaries)
+- Concurrency / Race conditions / Async execution flows
+- Math & Economic models (Liquidity drains)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Methodology:**
+No scanners. Pure manual review. Language-agnostic code breakdown. PoCs with hard assertions.
+
+[ Audits & write-ups inbound ]
